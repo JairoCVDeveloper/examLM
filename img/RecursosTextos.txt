@@ -13,61 +13,61 @@
         ***Ver Paquetes Disponibles
 
 
-SUBHEADING (Subtítulo inspirador)
-
-Título:
-Tu Próxima Aventura Empieza Aquí
-
-Texto:
-Ya sea que busques relax, aventura, cultura o una luna de miel inolvidable, tenemos el viaje perfecto para ti. Nuestros especialistas diseñan rutas completas para que disfrutes sin preocupaciones: vuelos, hoteles, actividades y mucho más.
-
-
-INTRODUCCIÓN / SOBRE LA AGENCIA
-
-Título:
-Somos tu Compañero de Viaje Ideal
-
-Texto:
-En nuestra agencia, creemos que viajar es más que moverse de un lugar a otro: es conectar, aprender y descubrir. Por eso trabajamos contigo para conocer tus gustos, expectativas y sueños, diseñando paquetes turísticos totalmente personalizados para que vivas la experiencia perfecta.
-******************************
-Botón / Enlace:
-Conócenos
+        ****SUBHEADING (Subtítulo inspirador)
+        ****
+        ****Título:
+        ****Tu Próxima Aventura Empieza Aquí
+        ****
+        ****Texto:
+        ***Ya sea que busques relax, aventura, cultura o una luna de miel inolvidable, tenemos el viaje perfecto para ti. Nuestros especialistas diseñan rutas completas para que disfrutes sin preocupaciones: vuelos, hoteles, actividades y mucho más.
 
 
-Tabla de Comparación de Servicios de Viajes
+        ***INTRODUCCIÓN / SOBRE LA AGENCIA
+        ***
+        ***Título:
+        ***Somos tu Compañero de Viaje Ideal
+        ***
+        ***Texto:
+        ***En nuestra agencia, creemos que viajar es más que moverse de un lugar a otro: es conectar, aprender y descubrir. Por eso trabajamos contigo para conocer tus gustos, expectativas y sueños, diseñando paquetes turísticos totalmente personalizados para que vivas la experiencia perfecta.
+        *********************************
+        ***Botón / Enlace:
+        ***Conócenos
 
-Servicio: Paquetes Turísticos Completos
-Descripción: Viajes organizados con vuelos, hoteles, traslados y actividades incluidas. Ideal para disfrutar sin preocuparse por nada.
-Duración: 5–10 días
-Incluye: Vuelo + Hotel + Traslados + Actividades guiadas
-Precio Desde: €799
-
-Servicio: Viajes Personalizados
-Descripción: Itinerarios creados 100% a medida según tus gustos: gastronomía, cultura, playa, aventura, naturaleza.
-Duración: A elección del cliente
-Incluye: Planificación total + selección de hoteles + actividades a medida
-Precio Desde: €150 (planificación)
-
-Servicio: Asesoría y Gestión de Reservas
-Descripción: Te ayudamos a encontrar y reservar vuelos, alojamiento y experiencias al mejor precio, con soporte antes y durante el viaje.
-Duración: Servicio continuo
-Incluye: Búsqueda + reservas + acompañamiento
-Precio Desde: €49
-
-Servicio: Escapadas de Fin de Semana
-Descripción: Paquetes rápidos y económicos para desconectar: ciudades europeas, spas, naturaleza o playas cercanas.
-Duración: 2–3 días
-Incluye: Hotel + vuelo o tren + guía rápida de actividades
-Precio Desde: €199
-
-Servicio: Viajes en Grupo
-Descripción: Viajes organizados para familias, empresas o grupos de amigos con guía especializado y actividades compartidas.
-Duración: 4–12 días
-Incluye: Guía + alojamiento + actividades grupales
-Precio Desde: €699
-
-
-
+        ***
+        ***Tabla de Comparación de Servicios de Viajes
+        ***
+        ***Servicio: Paquetes Turísticos Completos
+        ***Descripción: Viajes organizados con vuelos, hoteles, traslados y actividades incluidas. Ideal para disfrutar sin preocuparse por nada.
+        ***Duración: 5–10 días
+        ***Incluye: Vuelo + Hotel + Traslados + Actividades guiadas
+        ***Precio Desde: €799
+        ***
+        ***Servicio: Viajes Personalizados
+        ***Descripción: Itinerarios creados 100% a medida según tus gustos: gastronomía, cultura, playa, aventura, naturaleza.
+        ***Duración: A elección del cliente
+        ***Incluye: Planificación total + selección de hoteles + actividades a medida
+        ***Precio Desde: €150 (planificación)
+        ***
+        ***Servicio: Asesoría y Gestión de Reservas
+        ***Descripción: Te ayudamos a encontrar y reservar vuelos, alojamiento y experiencias al mejor precio, con soporte antes y durante el viaje.
+        ***Duración: Servicio continuo
+        ***Incluye: Búsqueda + reservas + acompañamiento
+        ***Precio Desde: €49
+        ***
+        ***Servicio: Escapadas de Fin de Semana
+        ***Descripción: Paquetes rápidos y económicos para desconectar: ciudades europeas, spas, naturaleza o playas cercanas.
+        ***Duración: 2–3 días
+        ***Incluye: Hotel + vuelo o tren + guía rápida de actividades
+        ***Precio Desde: €199
+        ***
+        ***Servicio: Viajes en Grupo
+        ***Descripción: Viajes organizados para familias, empresas o grupos de amigos con guía especializado y actividades compartidas.
+        ***Duración: 4–12 días
+        ***Incluye: Guía + alojamiento + actividades grupales
+        ***Precio Desde: €699
+        ***
+        ***
+        ***
 
                 ****TESTIMONIOS / SOCIAL PROOF
 
